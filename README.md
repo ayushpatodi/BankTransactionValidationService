@@ -19,4 +19,4 @@ Application expects 2 command line inputs:
 ## Run locally
 mvn clean install 
 
-java -jar BankTransactionValidationService-0.0.1-SNAPSHOT.jar <input-file-path> <output-file-path>
+java -jar BankTransactionValidationService-0.0.1-SNAPSHOT.jar  <input-file-path> <output-file-path>
